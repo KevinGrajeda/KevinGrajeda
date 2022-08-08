@@ -1,5 +1,5 @@
 <h1 align="center">Im Kevin Grajeda</h1>
-<h3 align="center">A developer from Mexico</h3>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?pause=500&color=4F94EF&center=true&vCenter=true&lines=A+developer+from+M%C3%A9xico"/></h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&custom_title=🔔 My Github Metrics:&username=KevinGrajeda" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&username=KevinGrajeda" height="150" alt="languages graph"  />
