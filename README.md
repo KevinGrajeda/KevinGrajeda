@@ -5,11 +5,10 @@
 </div>
 
 ###
-- 📚 I’m currently studying **Software Engineering**.
 
 - 🌱 I’m currently learning **Next.js, PWA's and Machine Learning**.
 
-- 📫 How to reach me: **yokevin20@gmail.com**.
+- 📫 How to reach me: **me@kvin.me**.
 
 - 🌐 My personal site: [**kvin.me**](https://kvin.me)
 
