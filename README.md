@@ -8,7 +8,7 @@ Some of my work:
 - Tailwind Springs http://tailwindcss-spring.kvin.me
 - Tailwind Motion http://rombo.co/tailwind/
 
-How to reach me: **me@kvin.me**.
+How to reach me: **me@kvin.me**
 
 My personal site: [**kvin.me**](https://kvin.me)
 
