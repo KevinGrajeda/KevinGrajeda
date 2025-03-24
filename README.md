@@ -1,7 +1,7 @@
 <h1 align="center">Im Kevin Grajeda</h1>
 
 
-Design Engineer at [Rombo](https://github.com/romboHQ)
+- Previously Design Engineer at [Rombo](https://github.com/romboHQ)
 ###
 Some of my work:
 - CSS Springs http://kvin.me/css-springs 
